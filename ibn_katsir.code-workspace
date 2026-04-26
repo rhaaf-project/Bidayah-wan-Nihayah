@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "ibn-katsir-translation",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.md": "markdown"
+		},
+		"editor.wordWrap": "on",
+		"markdown.preview.fontSize": 15
+	}
+}

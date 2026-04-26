@@ -1,0 +1,14 @@
+akses.txt
+agent heng.txt
+.env
+.env.local
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.DS_Store
+.vscode/
+hf-space/
+query_test.json
+*.code-workspace2.code-workspace
